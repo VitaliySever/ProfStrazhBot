@@ -34,7 +34,7 @@ def back_keyboard():
 def send_welcome(message):
     bot.send_message(
         message.chat.id,
-        "Здравствуйте! Я — *ПрофСтраж*.
+       "Здравствуйте! Я — ПрофСтраж."
 
 "
         "Я помогу вам:
